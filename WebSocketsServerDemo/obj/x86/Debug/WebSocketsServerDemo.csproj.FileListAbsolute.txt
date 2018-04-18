@@ -1,0 +1,9 @@
+C:\Users\CLY_HERO\Desktop\WebSocketsDemo-master\WebSocketsServerDemo\bin\Debug\WebSocketsServerDemo.exe
+C:\Users\CLY_HERO\Desktop\WebSocketsDemo-master\WebSocketsServerDemo\bin\Debug\WebSocketsServerDemo.pdb
+C:\Users\CLY_HERO\Desktop\WebSocketsDemo-master\WebSocketsServerDemo\bin\Debug\SuperSocket.Common.dll
+C:\Users\CLY_HERO\Desktop\WebSocketsDemo-master\WebSocketsServerDemo\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\CLY_HERO\Desktop\WebSocketsDemo-master\WebSocketsServerDemo\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\CLY_HERO\Desktop\WebSocketsDemo-master\WebSocketsServerDemo\bin\Debug\SuperWebSocket.dll
+C:\Users\CLY_HERO\Desktop\WebSocketsDemo-master\WebSocketsServerDemo\bin\Debug\log4net.dll
+C:\Users\CLY_HERO\Desktop\WebSocketsDemo-master\WebSocketsServerDemo\obj\x86\Debug\WebSocketsServerDemo.exe
+C:\Users\CLY_HERO\Desktop\WebSocketsDemo-master\WebSocketsServerDemo\obj\x86\Debug\WebSocketsServerDemo.pdb
